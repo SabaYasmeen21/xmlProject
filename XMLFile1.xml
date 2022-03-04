@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLTFile1.xsl"?>
+<FlowerPlanet>
+  <Flower>
+    <Id>1</Id>
+    <Name>Rose</Name>
+    <Color>Red</Color>
+    <Price>34</Price>
+  </Flower>
+</FlowerPlanet>
